@@ -1,0 +1,14 @@
+.style{
+    text-align: center;
+    background-color:rgb(117, 15, 15);
+    text-decoration: underline rgb(243, 107, 107) solid 3px;
+    color: rgb(243, 107, 107)
+}
+#center { text-align:center}
+#border {border: 15px rgb(39, 2, 2) dashed}
+.table table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+    background-color: palevioletred;
+}
+#body {background-color: rgb(241, 57, 57);}
